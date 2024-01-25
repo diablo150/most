@@ -1,0 +1,53 @@
+/*  */
+
+
+
+
+
+
+
+
+
+/*  */
+.ls2_name{
+   position: relative;
+   width: 100%;
+   margin-bottom: 30px;
+}
+.ls2_name h2{
+   position: relative;
+   width: 100%;
+   font-size: 32px;
+}
+
+
+
+/*  */
+.lsb_ih{
+   position: relative;
+   width: 100%;
+   color: var(--cl);
+}
+
+
+
+/*  */
+.ls2_vs{
+   position: relative;
+   width: 100%;
+   margin-bottom: 30px;
+}
+
+
+
+/*  */
+.ls2_oo5{
+   margin-bottom: 15px;
+}
+.ls2_oo5c{
+   position: relative;
+   width: 100%;
+}
+.ls2_oo5c a:first-child{
+   margin-right: 20px;
+}
